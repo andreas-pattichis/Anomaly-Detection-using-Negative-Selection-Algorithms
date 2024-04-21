@@ -8,8 +8,8 @@ This project focuses on using the Negative Selection Algorithm for two main task
 Each task is documented with methodologies, parameter optimizations, and results including ROC curves and AUC metrics.
 
 ## Repository Structure
-- `/1 - Using the Negative Selection Algorithm`: Contains all files for the language discrimination task, including Jupyter notebooks and ROC plots.
-- `/2 - Intrusion Detection for Unix Processes`: Includes all necessary files for the intrusion detection task, such as data preprocessing scripts, anomaly detection scripts, and visualization tools.
+- `/1 - Using the Negative Selection Algorithm`: Contains all files for the language discrimination task
+- `/2 - Intrusion Detection for Unix Processes`: Includes all necessary files for the intrusion detection task
 
 ## Tasks and Results
 ### 1. Language Discrimination
